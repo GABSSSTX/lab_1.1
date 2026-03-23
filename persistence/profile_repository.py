@@ -1,6 +1,5 @@
-from persistence.hash_table import HashTable
+from persistence.tabla_hash import HashTable
 from persistence.record_store import append_record, read_all
-
 
 class ProfileRepository:
 
